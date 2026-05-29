@@ -1,2 +1,65 @@
-# EDA
-This project performs Exploratory Data Analysis (EDA) to understand data patterns, trends, and relationships. It includes data cleaning, handling missing values, and visualization using Python libraries. The analysis helps identify insights, correlations, and outliers, creating a strong foundation for machine learning projects.
+## Overview
+
+* Collection of end-to-end Data Science projects
+* Covers data preprocessing, EDA, feature engineering, and ML models
+* Includes real-world and synthetic datasets
+* Focus on regression, classification, and data analysis
+
+## Tools and Technologies
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Google Colab
+
+---
+
+## Techniques Used
+
+* Data Cleaning
+* Handling Missing Values
+* Label Encoding
+* Feature Scaling (MinMaxScaler)
+* Exploratory Data Analysis (EDA)
+* Correlation Analysis
+* Regression Models
+* Classification Models
+* Model Evaluation (Accuracy, R² Score, RMSE)
+
+---
+
+## How to Use
+
+* Clone the repository
+
+  ```
+  git clone https://github.com/vijaydevverse/data-science-eda-ml-projects.git
+  ```
+
+* Open notebooks in Colab or Jupyter
+
+* Install dependencies
+
+  ```
+  pip install pandas numpy matplotlib seaborn scikit-learn
+  ```
+
+* Run notebooks step by step
+
+---
+
+## Author
+
+* Adithya V.S.
+
+---
+
+## Notes
+
+* Created for learning and demonstration purposes
+* Uses public and synthetic datasets
+
+---
