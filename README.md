@@ -36,7 +36,7 @@
 * Clone the repository
 
   ```
-  git clone https://github.com/vijaydevverse/data-science-eda-ml-projects.git
+  git clone https://github.com/Adithyasajeev22/EDA
   ```
 
 * Open notebooks in Colab or Jupyter
